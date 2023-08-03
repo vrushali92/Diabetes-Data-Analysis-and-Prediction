@@ -56,7 +56,9 @@ diabetes: Diabetes is the target variable being predicted, with values of 1 indi
    
    ![Age_Distribution_With_Diabetes_status](https://github.com/vrushali92/Diabetes-Data-Analysis-and-Prediction/assets/28844399/64557333-459b-4611-b7e5-aa058b6ab2e2)
 
-   
+# Tableau
+
+https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/DiabeticsDataAnalysis/DiabetescountbyHeartdisease?publish=yes
    
 # Installation
 
